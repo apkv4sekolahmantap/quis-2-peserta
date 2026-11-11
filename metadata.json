@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Kuis Bais by Pk Ilham - SD Negeri 047 Tarakan Kelas 4. A Bais",
+  "description": "Aplikasi Kuis Interaktif Head-to-Head 2 Pemain untuk Siswa Kelas 4 SD Kurikulum Merdeka dengan Soal AI Dinamis (Matematika, IPAS, Bahasa Indonesia, PKn).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
